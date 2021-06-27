@@ -30,7 +30,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
     alt="html5" width="40" height="40"/> </a> 
     
-<br />    
+<br /> 
+<br /> 
+<br /> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nueutau-c&label=Profile%20views&color=ff8731&style=flat" alt="nueutau" /> 
