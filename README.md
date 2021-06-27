@@ -2,7 +2,6 @@
 
 <!--
 **nueutau/nueutau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">潘郁婷(Yuting)</h1>
+<ul align="center">
+  <li>Birthday: 1993/09/03</li>
+  <li>Location: Kaohsiung</li>
+  <li>E-Mail: uatueun@gmail.com</li>
+</ul>
+
+<h2 align="center">Languages and Tools:</h2>
