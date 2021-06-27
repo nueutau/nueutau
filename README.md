@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- div左右分割 -->
 
+<img align="right" width="300" height="300" src="">
+
+ 
 <h1 align="left">潘郁婷(Yuting)</h1>
 <ul align="left">
   <li>Birthday: 1993/09/03</li>
