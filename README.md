@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- div左右分割 -->
 
-<img align="right" width="300" height="300" src="">
+<img align="right" width="300" src="https://github.com/uatueun/uatueun/blob/main/photo.jpg">
 
  
 <h1 align="left">潘郁婷(Yuting)</h1>
