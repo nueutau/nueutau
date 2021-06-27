@@ -27,13 +27,20 @@ Here are some ideas to get you started:
 
 <h2 align="left">Languages and Tools:</h2>
 
-<a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-    alt="html5" width="40" height="40"/> </a> 
+<div>
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-    alt="css3" width="40" height="40"/> </a> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+    
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/200px-Adobe_Illustrator_CC_icon.svg.png" width="40" height="40"/>
+    
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/220px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/>
+ 
+</div>
+    
+    
+    
     
 <br /> 
 <br /> 
