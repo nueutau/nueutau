@@ -37,6 +37,9 @@ Here are some ideas to get you started:
     
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/220px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/>
  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+ 
 </div>
     
     
