@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="40" height="40"/>
  
-  <img src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="40" height="40"/>
  
 </div>
     
