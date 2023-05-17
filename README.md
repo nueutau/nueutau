@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="left">潘郁婷(Yuting)</h1>
 <ul align="left">
   <li>Birthday: 1993/09/03</li>
-  <li>Location: Kaohsiung</li>
+  <li>Location: Taipei</li>
   <li>E-Mail: uatueun@gmail.com</li>
 </ul>
 
