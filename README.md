@@ -38,6 +38,8 @@ Here are some ideas to get you started:
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/220px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/>
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="40"/>
  
   <img src="https://cdn-images-1.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="40" height="40"/>
  
@@ -46,6 +48,8 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="40" height="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="40" height="40"/>
+ 
+ <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="40" height="40"/>
  
 </div>
     
