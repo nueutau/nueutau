@@ -44,6 +44,8 @@ Here are some ideas to get you started:
   <img src="https://cdn-images-1.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="40" height="40"/>
  
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="40" height="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="40"/>
  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="40" height="40"/>
 
