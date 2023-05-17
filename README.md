@@ -39,13 +39,13 @@ Here are some ideas to get you started:
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
  
- <img src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png" width="40" height="40"/>
- 
   <img src="https://cdn-images-1.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="40" height="40"/>
  
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="40" height="40"/>
  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="40" height="40"/>
+
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)" width="40" height="40"/>
  
 </div>
     
